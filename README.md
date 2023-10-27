@@ -1,4 +1,4 @@
-# Project_2_Adult_Income
+# Adult_Income
 Predicting income level based on individuals' personal information.
 
 ## **Source**
