@@ -44,4 +44,7 @@ The dataset contains:
 
 
 ## **Results**
-- The best model to predict an adults income level based on their personal information is the Logistic Regression model. Both models with and witout hyperparameters had a recall score of 0.60. This means that the models were able to correctly predict 0.60% of adults' income based on their personal. With some additional data it is possible for this score to improve. If the stkeholders are to use this model to predict adult's income ther is a 0.40% chance that the prediction would be inacurrate.
+- The best model to predict an adults income level based on their personal information is the Logistic Regression model. Both models with and witout hyperparameters had a recall score of 0.60. This means that the models were able to correctly predict 0.60% of adults' income based on their personal.
+
+  ### **Stakeholder Reccomendations**
+- With some additional data it is possible for this score to improve. If the stakeholders are to use this model to predict adult's income ther is a 0.40% chance that the prediction would be inacurrate.
