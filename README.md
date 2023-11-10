@@ -36,7 +36,7 @@ The dataset contains:
   
 
 ## **Visual 2**
-![Screenshot 2023-11-08 144340](https://github.com/GabrielleYa/Project_2_Adult_Income/assets/135492530/f175b490-c5d5-4dfd-8f72-fad931c89d26)
+![image](https://github.com/GabrielleYa/Project_2_Adult_Income/assets/135492530/b9771fa0-55cc-4654-9c22-0f80fa65f5c6)
 
 - Most of the features present a weak postive correaltions
 - the closetest feature correlation pair to 1 is educational_num and capital-gain
